@@ -1,16 +1,16 @@
 {
-  "name": "goit-js-hw-11-food-service",
+  "name": "goit-js-hw-11-switch-timer-promisification",
   "source": "src/index.html",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-11-food-service/",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-11-switch-timer-promisification/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "devDependencies": {
     "parcel": "^2.7.0"
   },
-  "homepage": "https://Sh3ddy.github.io/goit-js-hw-11-food-service",
+  "homepage": "https://Sh3ddy.github.io/goit-js-hw-11-switch-timer-promisification",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
