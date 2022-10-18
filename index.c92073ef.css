@@ -1,0 +1,48 @@
+.container {
+  justify-content: center;
+  margin-left: 183px;
+  margin-right: 183px;
+}
+
+.button {
+  -webkit-box-shadow: 5px 5px 15px 5px #16ffff;
+  background-color: azure;
+  border-color: #0ff;
+  border-radius: 10px;
+  margin: 25px auto;
+  padding: 15px 50px;
+  display: block;
+  box-shadow: 0 5px 15px #16ffff;
+}
+
+.timer {
+  justify-content: center;
+  margin-top: 50px;
+  display: flex;
+}
+
+.field {
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5;
+  display: block;
+}
+
+.value {
+  width: 2em;
+  height: 2.4em;
+  color: #000;
+  border-top: solid 1 px #ec410d;
+  background-color: azure;
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 5em;
+  line-height: 1;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.c92073ef.css.map */
