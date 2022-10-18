@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"4M6V8":[function(require,module,exports) {
 
-},{}]},["lX4BT","4M6V8"], "4M6V8", "parcelRequiref68e")
+},{}]},["lX4BT","4M6V8"], "4M6V8", "parcelRequire1e4f")
 
 //# sourceMappingURL=goit-js-hw-11-food-service.59712999.js.map
